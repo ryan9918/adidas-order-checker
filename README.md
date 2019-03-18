@@ -1,5 +1,5 @@
 # Adidas Order Checker
-Allows mass-checking of the status of adidas online orders
+Allows mass-checking of the status of adidas online orders on US, UK, FR and DE
 
 #### Requirements
 - bs4
